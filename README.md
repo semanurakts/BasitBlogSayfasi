@@ -12,3 +12,5 @@ Bu proje, yalnızca HTML kullanılarak oluşturulmuş basit ve statik bir blog s
 ## 📸 Ekran Görüntüsü
 
 ![Basit Blog Sayfası Görseli](BasitBlogSayfası.png)
+
+[Proje Linki](https://semanurakts.github.io/BasitBlogSayfasi/BasitBlogSayfası.html)
